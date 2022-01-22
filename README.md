@@ -1,2 +1,2 @@
 # Streamit-Webapp
-X-Rsy Classifier
+X-Ray Classifier
