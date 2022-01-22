@@ -1,4 +1,5 @@
-keras
+tensorflow.keras.models
+tensorflow.keras.preprocessing
 pillow
 numpy
 h5py
