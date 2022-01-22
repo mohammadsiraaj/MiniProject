@@ -1,2 +1,2 @@
 # Streamit-Webapp
-Spam Classifier
+X-Rsy Classifier
